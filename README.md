@@ -1,0 +1,1 @@
+###A sound sythesizer tutorial that i followed to help me understand the basics of digital sound production. Followed the tutorial by: https://www.youtube.com/watch?v=kDuvruJTjOs
